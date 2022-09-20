@@ -7,8 +7,11 @@ python3 -m venv env
 ```
 2. Activate the virtual environment:
 ```shell
-source env/bin/activate (linux, macOS)
-source env/Scripts/activate (windows, using git bash)
+source env/bin/activate # linux, macOS
+```
+or
+```shell
+source env/Scripts/activate # windows, using git bash
 ```
 3. Install dependencies
 ```shell
