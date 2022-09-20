@@ -34,7 +34,7 @@ python main.py input.txt
 
 By default script fetches 30 videos from search query, to change this 
 you can set env variable MAXRESULTS with your prefered number
-just before runing the script do like this
+just before runing the script, do like this:
 
 ```shell
 export MAXRESULTS=35
