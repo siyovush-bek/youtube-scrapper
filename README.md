@@ -21,10 +21,11 @@ pip install -r requirements.txt
 Words in search query must be seperated with '+' symbol
 here how it would look like:
 
-ted+talks ted
-async+tasks async
-fastapi+beginner's+tutorial fastapi
-
+```text
+ted+talks ted  
+async+tasks async  
+fastapi+beginner's+tutorial fastapi  
+```
 4. Run the script
 
 ```shell
